@@ -3,6 +3,7 @@
 
 ## About
 This project is the result of a google study on the fundamentals and best practices for developing an android app.
+All documentation: [Android Developers](https://developer.android.com/docs)
 
 ## App goal
 Provide the user to play a dice roller.
